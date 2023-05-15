@@ -179,7 +179,7 @@ a:hover{
     justify-content: space-between;
 }
 .home-img{
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fafun-17b2c.appspot.com/o/20221224_155708.jpg?alt=media&token=0cdc3507-f902-488a-8130-1fca4a6eadbc);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fafun-17b2c.appspot.com/o/ring-2.png?alt=media&token=0e2a8bae-908d-45ed-a607-f61f3a81c814);
     background-size: cover;
     background-position: center;
 }
@@ -225,7 +225,7 @@ a:hover{
     margin: 8vh 0;
 }
 .timeline-img{
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic2.jpg?alt=media&token=7a0e5f94-d68e-4d32-bd3b-2a82b7acd40c);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fafun-17b2c.appspot.com/o/fikry-resa.png?alt=media&token=1e613e43-6315-4de8-8704-97c66490a95d);
     height: 70vh;
     width: 30vw;
     background-position: center;
@@ -310,15 +310,15 @@ a:hover{
     background-position: center;
 }
 .gallery-img:nth-child(1){
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fafun-17b2c.appspot.com/o/20221229_162844.jpg?alt=media&token=ed2cabaf-8e97-48f0-b235-fcb11be3e964);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fafun-17b2c.appspot.com/o/IMG_3357.png?alt=media&token=4a987af4-a67c-4bd1-b509-b1d467c7086c);
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fafun-17b2c.appspot.com/o/20221229_162341.jpg?alt=media&token=2ac69779-9d14-4e62-94a8-1a472233fbe0);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fafun-17b2c.appspot.com/o/fikry.png?alt=media&token=ff7175b7-5e7b-4bed-86d9-dcf59f694757);
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fafun-17b2c.appspot.com/o/20230101_151343.jpg?alt=media&token=06ae9d35-6e07-404b-9925-89acbb429d14);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fafun-17b2c.appspot.com/o/Tezza-2820.png?alt=media&token=d817bf76-0e07-4920-89b0-146a00d67dfd);
 }
 @media (max-width:1000px){
     .gallery{
@@ -460,6 +460,8 @@ a:hover{
     text-align: center;
 }
 .parting-message button{
+    flex-direction: row;
+
     margin:  10vh auto;
 }
 
