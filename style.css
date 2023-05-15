@@ -179,7 +179,7 @@ a:hover{
     justify-content: space-between;
 }
 .home-img{
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic1.jpg?alt=media&token=5dbf5af2-354b-464c-9db2-7da57b484eda);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fafun-17b2c.appspot.com/o/20221224_155708.jpg?alt=media&token=0cdc3507-f902-488a-8130-1fca4a6eadbc);
     background-size: cover;
     background-position: center;
 }
@@ -310,15 +310,15 @@ a:hover{
     background-position: center;
 }
 .gallery-img:nth-child(1){
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic3.jpg?alt=media&token=32a76585-cbeb-41f5-8921-6ad1ff60aa79);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fafun-17b2c.appspot.com/o/20221229_162844.jpg?alt=media&token=ed2cabaf-8e97-48f0-b235-fcb11be3e964);
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic4.jpg?alt=media&token=3bde5693-e5c8-412d-bd47-1ef972258406);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fafun-17b2c.appspot.com/o/20221229_162341.jpg?alt=media&token=2ac69779-9d14-4e62-94a8-1a472233fbe0);
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic5.jpg?alt=media&token=d9ef9475-ec6d-41ca-8cfd-3e45b70139d3);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fafun-17b2c.appspot.com/o/20230101_151343.jpg?alt=media&token=06ae9d35-6e07-404b-9925-89acbb429d14);
 }
 @media (max-width:1000px){
     .gallery{
@@ -418,7 +418,7 @@ a:hover{
     display: block;
     height: 100vh;
     width: 40vw;
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic7.jpg?alt=media&token=79b8d974-04ff-4b2d-bed5-82638399b34e);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fafun-17b2c.appspot.com/o/20221227_180716.jpg?alt=media&token=b8eb4979-f112-40c0-bda2-c55f534cb9e7);
     background-size: cover;
     background-position-y: top;
     background-repeat: no-repeat;
